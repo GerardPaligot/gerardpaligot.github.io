@@ -1,0 +1,33 @@
+baseURL = "https://gerard.paligot.com"
+languageCode = "en-us"
+title = "Gérard Paligot"
+theme = "m10c"
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  author = "Gérard Paligot"
+  description = "Father and husband, Software Staff Engineer @Decathlon, co-organisator LAUG and FRAUG, Kotlin Lover, Disney Fan!"
+  avatar = "avatar.jpg"
+  [[params.social]]
+    icon = "github"
+    name = "GerardPaligot"
+    url = "https://github.com/GerardPaligot"
+  [[params.social]]
+    icon = "twitter"
+    name = "@GerardPaligot"
+    url = "https://twitter.com/GerardPaligot"
+  [[params.social]]
+    icon = "linkedin"
+    name = "gpaligot"
+    url = "https://www.linkedin.com/in/gpaligot/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+
+  [[menu.main]]
+    identifier = "speaking"
+    name = "Speaking"
+    url = "/speaking/"

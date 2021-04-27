@@ -31,3 +31,8 @@ disableKinds = ["taxonomy", "term"]
     identifier = "speaking"
     name = "Speaking"
     url = "/speaking/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"

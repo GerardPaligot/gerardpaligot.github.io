@@ -2,6 +2,7 @@
 
 ## 2021
 
+* **Adeo Dev Summit** - Mobile Platform Engineering, how to standardize mobile practice in your company? ([slides](https://speakerdeck.com/gerardpaligot/mobile-platform-engineering-how-to-standardize-mobile-practice-in-your-company))
 * **French Android User Group** - Learning Jetpack Compose
 
 ## 2020

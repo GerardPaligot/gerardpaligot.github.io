@@ -2,6 +2,7 @@
 
 ## 2021
 
+* [Jetpack Compose: How to play with Canvas?](https://medium.com/@GerardPaligot/jetpack-compose-how-to-play-with-canvas-36d3638996b6)
 * [Sharing Compose components between Android and Desktop](https://dev.to/gerardpaligot/sharing-compose-components-between-android-and-desktop-17kg)
 
 ## 2020

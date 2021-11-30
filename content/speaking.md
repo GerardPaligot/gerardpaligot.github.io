@@ -2,8 +2,9 @@
 
 ## 2021
 
-* **Adeo Dev Summit** - Mobile Platform Engineering, how to standardize mobile practice in your company? ([slides](https://speakerdeck.com/gerardpaligot/mobile-platform-engineering-how-to-standardize-mobile-practice-in-your-company))
-* **French Android User Group** - Learning Jetpack Compose
+* **Devfest Strasbourg** - Discovering Jetpack Compose ([slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
+* **Adeo Dev Summit** - Mobile Platform Engineering, how to standardize mobile practice in your company? ([video](https://youtu.be/9b0tdM3yNNs), [slides](https://speakerdeck.com/gerardpaligot/mobile-platform-engineering-how-to-standardize-mobile-practice-in-your-company), [OpenFeedback.io](https://openfeedback.io/JCbSxM01WvfWfrMc1bvr/2021-06-16/1E5svhRWmrcPbPU6gEKR))
+* **French Android User Group** - Main animator of a codelabs about Jetpack Compose
 
 ## 2020
 

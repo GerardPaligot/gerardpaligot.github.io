@@ -1,5 +1,9 @@
 # Speaking
 
+## 2022
+
+* **Touraine Tech** - Discovering Jetpack Compose ([slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
+
 ## 2021
 
 * **Devfest Strasbourg** - Discovering Jetpack Compose ([videos](https://youtu.be/6r8JYIR-PtU), [slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))

@@ -1,5 +1,9 @@
 # Blog
 
+## 2022
+
+* [SwiftUI vs Jetpack Compose by an Android Engineer](https://medium.com/@GerardPaligot/swiftui-vs-jetpack-compose-by-an-android-engineer-6b48415f36b3)
+
 ## 2021
 
 * [Jetpack Compose: How to play with Canvas?](https://medium.com/@GerardPaligot/jetpack-compose-how-to-play-with-canvas-36d3638996b6)

@@ -2,7 +2,7 @@
 
 ## 2022
 
-* **Meetup PAUG** - ([event page](https://www.meetup.com/Android-Paris/events/285963041/), [videos](https://youtu.be/UDYLtYL14nU), [slides](https://docs.google.com/presentation/d/1WQ1KPGS3V9EplnncfqwW9rj4nnACrjj0eIjjygVAJ60/edit?usp=sharing&resourcekey=0-7DuCFab6Sr6Ht_xiEXLKqw))
+* **Meetup PAUG** - Highlight Android from Google IO 2022 ([event page](https://www.meetup.com/Android-Paris/events/285963041/), [videos](https://youtu.be/UDYLtYL14nU), [slides](https://docs.google.com/presentation/d/1WQ1KPGS3V9EplnncfqwW9rj4nnACrjj0eIjjygVAJ60/edit?usp=sharing&resourcekey=0-7DuCFab6Sr6Ht_xiEXLKqw))
 * **Adeo Dev Summit** - L'accessibilité, c'est pas sorcier ([event page](https://adeodevsummit2022.sched.com/event/12ZjN/laccessibilite-cest-pas-sorcier), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing))
 * **Android Makers** - L'accessibilité, c'est pas sorcier ([event page](https://androidmakers.fr/schedule/2022-04-26?sessionId=NHE-5712), [videos](https://youtu.be/wDCiNb_GPxw), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [Openfeedback](https://openfeedback-am-2022.web.app/am-2022/2022-04-26/NHE-5712))
 * **BBL Decathlon** - L'accessibilité, c'est pas sorcier ([slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [Openfeedback](https://openfeedback.io/decathlon-bbl-accessibility-fanny/2021-04-29/fEHaNmKCExgT6cnw7gbQ))

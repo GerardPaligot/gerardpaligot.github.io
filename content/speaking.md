@@ -2,6 +2,10 @@
 
 ## 2022
 
+* **VolcampIO 2022** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.volcamp.io/talks/22d2t4s6), [Openfeedback](https://openfeedback.io/LjGz0p1jgPjgoP43jNzz/2022-10-14/IHURgsxKVQFxa3VdUnfG))
+* **Meetup LAUG** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.meetup.com/fr-FR/lille-android-user-group/events/288649880/), [Openfeedback](https://openfeedback.io/WQlrSFmva4qfRtjcZOT5/2022-10-11/CQzmVBViWCbDwc7IKvog))
+* **Droidcon Italy** - Accessibility with Compose: Experimentation & Live coding ([event page](https://it.droidcon.com/2022/), [Openfeedback](https://openfeedback.io/qkOskcnEadTxeNivZ592/2022-10-07/juSGUUhCpQAXIexkxbwg))
+* **Meetup GDG Nantes Android** - From Jetpack Compose to Compose Multiplatform ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-android-nantes-21-meetup-au-palace/), [Openfeedback](https://openfeedback.io/SsApO1mL6wNRw2fGRKf3/2022-09-27/gKh0Po4NoUOcnDru91xF))
 * **Meetup PAUG** - Highlight Android from Google IO 2022 ([event page](https://www.meetup.com/Android-Paris/events/285963041/), [videos](https://youtu.be/UDYLtYL14nU), [slides](https://docs.google.com/presentation/d/1WQ1KPGS3V9EplnncfqwW9rj4nnACrjj0eIjjygVAJ60/edit?usp=sharing&resourcekey=0-7DuCFab6Sr6Ht_xiEXLKqw))
 * **Adeo Dev Summit** - L'accessibilité, c'est pas sorcier ([event page](https://adeodevsummit2022.sched.com/event/12ZjN/laccessibilite-cest-pas-sorcier), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing))
 * **Android Makers** - L'accessibilité, c'est pas sorcier ([event page](https://androidmakers.fr/schedule/2022-04-26?sessionId=NHE-5712), [videos](https://youtu.be/wDCiNb_GPxw), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [Openfeedback](https://openfeedback-am-2022.web.app/am-2022/2022-04-26/NHE-5712))

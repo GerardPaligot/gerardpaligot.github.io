@@ -1,5 +1,11 @@
 # Speaking
 
+## 2023
+
+* **DevDay 2023** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.devday.be/Sessions/details/200), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/fePnfMqcFyPW6ylFepGW/2023-03-23/200))
+* **FOSDEM 2023** - Take your shot of Vitamin! ([event page](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [video](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))
+* **FRAUG** - App-Clinic #3 ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-fraug-app-clinic-3/), [video](https://www.youtube.com/live/JZuCl0WgqI0))
+
 ## 2022
 
 * **Devfest Strasbourg 2022** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://devfest.gdgstrasbourg.fr/schedule))

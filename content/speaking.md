@@ -2,15 +2,16 @@
 
 ## 2023
 
-* **DevDay 2023** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.devday.be/Sessions/details/200), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/fePnfMqcFyPW6ylFepGW/2023-03-23/200))
-* **FOSDEM 2023** - Take your shot of Vitamin! ([event page](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [video](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))
+* **Android Makers by droidcon** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://androidmakers.droidcon.com/gerard-paligot/), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/am2023/2023-04-27/423061))
+* **DevDay** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.devday.be/Sessions/details/200), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/fePnfMqcFyPW6ylFepGW/2023-03-23/200))
+* **FOSDEM'23** - Take your shot of Vitamin! ([event page](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [video](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))
 * **FRAUG** - App-Clinic #3 ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-fraug-app-clinic-3/), [video](https://www.youtube.com/live/JZuCl0WgqI0))
 
 ## 2022
 
-* **Devfest Strasbourg 2022** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://devfest.gdgstrasbourg.fr/schedule))
-* **Devfest Nantes 2022** - L'accessibilité, c'est pas sorcier ([event page](https://devfest.gdgnantes.com/en/sessions/l_accessibilite__c_est_pas_sorcier__), [video](https://youtu.be/l0ouMbpOWn0), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [Openfeedback](https://openfeedback.io/devfestnantes22/2022-10-21/30))
-* **VolcampIO 2022** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.volcamp.io/talks/22d2t4s6), [Openfeedback](https://openfeedback.io/LjGz0p1jgPjgoP43jNzz/2022-10-14/IHURgsxKVQFxa3VdUnfG))
+* **Devfest Strasbourg** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://devfest.gdgstrasbourg.fr/schedule))
+* **Devfest Nantes** - L'accessibilité, c'est pas sorcier ([event page](https://devfest.gdgnantes.com/en/sessions/l_accessibilite__c_est_pas_sorcier__), [video](https://youtu.be/l0ouMbpOWn0), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [Openfeedback](https://openfeedback.io/devfestnantes22/2022-10-21/30))
+* **VolcampIO** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.volcamp.io/talks/22d2t4s6), [Openfeedback](https://openfeedback.io/LjGz0p1jgPjgoP43jNzz/2022-10-14/IHURgsxKVQFxa3VdUnfG))
 * **Meetup LAUG** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.meetup.com/fr-FR/lille-android-user-group/events/288649880/), [video](https://youtu.be/IDUVGvjqJNM), [Openfeedback](https://openfeedback.io/WQlrSFmva4qfRtjcZOT5/2022-10-11/CQzmVBViWCbDwc7IKvog))
 * **Droidcon Italy** - Accessibility with Compose: Experimentation & Live coding ([event page](https://it.droidcon.com/2022/), [Openfeedback](https://openfeedback.io/qkOskcnEadTxeNivZ592/2022-10-07/juSGUUhCpQAXIexkxbwg))
 * **Meetup GDG Nantes Android** - From Jetpack Compose to Compose Multiplatform ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-android-nantes-21-meetup-au-palace/), [Openfeedback](https://openfeedback.io/SsApO1mL6wNRw2fGRKf3/2022-09-27/gKh0Po4NoUOcnDru91xF))
@@ -28,8 +29,8 @@
 
 ## 2020
 
-* **DevDay 2020** - Discovering Jetpack Compose ([video](https://www.youtube.com/watch?v=V66x5rQvLeg&t=3576s), [slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
-* **Android Makers 2020** - Gradle + Kotlin = ⚡🚀 ([event page](https://android-makers-2020.firebaseapp.com/schedule/2020-04-20?sessionId=174162), [video](https://youtu.be/I3WfRaIl4a4), [slides](https://speakerdeck.com/gerardpaligot/gradle-plus-kotlin-dsl-equals))
+* **DevDay** - Discovering Jetpack Compose ([video](https://www.youtube.com/watch?v=V66x5rQvLeg&t=3576s), [slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
+* **Android Makers** - Gradle + Kotlin = ⚡🚀 ([event page](https://android-makers-2020.firebaseapp.com/schedule/2020-04-20?sessionId=174162), [video](https://youtu.be/I3WfRaIl4a4), [slides](https://speakerdeck.com/gerardpaligot/gradle-plus-kotlin-dsl-equals))
 * **DevFest du Bout du Monde** - Discovering Jetpack Compose ([event page](https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/), [slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
 * **Lille Android User Group** - Discovering Jetpack Compose ([event page](https://www.meetup.com/fr-FR/lille-android-user-group/events/267908033/), [slides](https://speakerdeck.com/gerardpaligot/discovering-jetpack-compose))
 

@@ -2,6 +2,8 @@
 
 ## 2023
 
+* **Sunny Tech** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://sunny-tech.io/sessions/swiftui-vs-jetpack-compose-par), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/sunnytech2023/2023-06-30/swiftui-vs-jetpack-compose-par))
+* **Mobilis In Mobile 2023** - Take your shot of Vitamin! ([event page](https://mobilis-in-mobile.io/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin), [OpenFeedback](https://openfeedback.io/RQSg6MHywwQzjkYgFFoW/2023-06-20/sBlZgIMqOpaKI2ctvUzv))
 * **Android Makers by droidcon** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://androidmakers.droidcon.com/gerard-paligot/), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/am2023/2023-04-27/423061))
 * **DevDay** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.devday.be/Sessions/details/200), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [Openfeedback](https://openfeedback.io/fePnfMqcFyPW6ylFepGW/2023-03-23/200))
 * **FOSDEM'23** - Take your shot of Vitamin! ([event page](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [video](https://fosdem.org/2023/schedule/event/take_your_shot_of_vitamin/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))

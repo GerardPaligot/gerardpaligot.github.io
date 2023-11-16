@@ -18,7 +18,7 @@
 ## 2022
 
 * **FRAUG** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-fraug-swiftui-vs-jetpack-compose-avec-gerard-paligot/), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [replay](https://www.youtube.com/live/2D9TmuWmElQ), [feedbacks](https://openfeedback.io/e6swwSH4aDCT9iWWvxUM/2022-12-16/FyVztY5LfQcWn4rf9VpW))
-* **Devfest Strasbourg** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://devfest.gdgstrasbourg.fr/schedule))
+* **Devfest Strasbourg** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://devfest.gdgstrasbourg.fr/schedule), [replay](https://youtu.be/RocOc_6WUjM))
 * **Devfest Nantes** - L'accessibilité, c'est pas sorcier ([event page](https://devfest.gdgnantes.com/en/sessions/l_accessibilite__c_est_pas_sorcier__), [replay](https://youtu.be/l0ouMbpOWn0), [slides](https://docs.google.com/presentation/d/1Duy1GHgpqTCug43Trlp1aBLbY7bCDiDtAwrK6rEBl9g/edit?usp=sharing), [feedbacks](https://openfeedback.io/devfestnantes22/2022-10-21/30))
 * **VolcampIO** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.volcamp.io/talks/22d2t4s6), [feedbacks](https://openfeedback.io/LjGz0p1jgPjgoP43jNzz/2022-10-14/IHURgsxKVQFxa3VdUnfG))
 * **Meetup LAUG** - SwiftUI vs Jetpack Compose by an Android Engineer ([event page](https://www.meetup.com/fr-FR/lille-android-user-group/events/288649880/), [replay](https://youtu.be/IDUVGvjqJNM), [feedbacks](https://openfeedback.io/WQlrSFmva4qfRtjcZOT5/2022-10-11/CQzmVBViWCbDwc7IKvog))

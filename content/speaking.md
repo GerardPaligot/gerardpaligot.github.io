@@ -2,7 +2,7 @@
 
 ## 2023
 
-* **Devfest Strasbourg** - Take your shot of Vitamin! ([event page](https://devfest.gdgstrasbourg.fr/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin), [feedbacks](https://openfeedback.io/BVJQLdpKqfl1IBPtWpRR/0/khfkdjhgkjlhgkdjg))
+* **Devfest Strasbourg** - Take your shot of Vitamin! ([event page](https://devfest.gdgstrasbourg.fr/), [replay](https://youtu.be/0vWCJjcZrlM), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin), [feedbacks](https://openfeedback.io/BVJQLdpKqfl1IBPtWpRR/0/khfkdjhgkjlhgkdjg))
 * **Droidcon London 23** - Take your shot of Vitamin! ([event page](https://london.droidcon.com/gerard-paligot/), [replay](https://www.droidcon.com/2023/11/15/take-your-shot-of-vitamin-2/), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))
 * **Devfest Nantes** - SwiftUi vs Jetpack Compose ([event page](https://devfest2023.gdgnantes.com/en/sessions/swiftui_vs_jetpack_compose_par_un_ingenieur_android/), [replay](https://youtu.be/OUTKf92iNo0), [slides](https://speakerdeck.com/gerardpaligot/swiftui-vs-jetpack-compose-by-an-android-engineer), [feedbacks](https://openfeedback.io/p32EOIbP5bj4WDdz8bJs/2022-10-19/swiftuivsjetpackcomposeparuningenieurandroid))
 * **Devoxx Belgium** - Take your shot of Vitamin! ([event page](https://mobile.devoxx.com/events/dvbe23/talks/10601/details), [replay](https://youtu.be/89t2RZV76qk), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin))

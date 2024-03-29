@@ -1,5 +1,9 @@
 # Blog
 
+## 2024
+
+* [String resources API for Compose Multiplatform](https://medium.com/proandroiddev/string-resources-api-for-compose-multiplatform-9e0bf6618506)
+
 ## 2022
 
 * [SwiftUI vs Jetpack Compose by an Android Engineer](https://medium.com/@GerardPaligot/swiftui-vs-jetpack-compose-by-an-android-engineer-6b48415f36b3)

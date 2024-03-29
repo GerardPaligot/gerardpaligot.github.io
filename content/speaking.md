@@ -1,5 +1,10 @@
 # Speaking
 
+## 2024
+
+* **AppDevCon.NL 2024** - Why is adaptive layout a nightmare? ([event page](https://appdevcon.nl/session/why-is-adaptive-layout-a-nightmare/), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
+* **Meetup GDG Nantes Android** - Why is adaptive layout a nightmare? ([event page](https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-android-nantes-29-meetup-chez-ippon-technologies/), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare), [feedbacks](https://openfeedback.io/498RViPllO450MzN35nq/2024-02-22/XzX9ooGD35ZAs1BFRut7))
+
 ## 2023
 
 * **Devfest Strasbourg** - Take your shot of Vitamin! ([event page](https://devfest.gdgstrasbourg.fr/), [replay](https://youtu.be/0vWCJjcZrlM), [slides](https://speakerdeck.com/gerardpaligot/take-your-shot-of-vitamin), [feedbacks](https://openfeedback.io/BVJQLdpKqfl1IBPtWpRR/0/khfkdjhgkjlhgkdjg))

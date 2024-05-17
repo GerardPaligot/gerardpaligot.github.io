@@ -6,8 +6,8 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   author = "Gérard Paligot"
-  description = "Father and husband, Software Staff Engineer @Decathlon, co-organisator LAUG and FRAUG, Kotlin Lover, Disney Fan!"
-  avatar = "avatar.jpg"
+  description = "Father and husband, Senior Staff Engineer @Decathlon, co-organisator LAUG and FRAUG, Kotlin Lover, Disney Fan!"
+  avatar = "avatar002.jpg"
   [[params.social]]
     icon = "github"
     name = "GerardPaligot"

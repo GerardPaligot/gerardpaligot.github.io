@@ -2,6 +2,10 @@
 
 ## 2024
 
+* **Devfest Strasbourg** - Why is adaptive layout a nightmare? ([event page](https://devfest.gdgstrasbourg.fr/), [replay](https://youtu.be/lkKUsasgAsM?si=Z8g09jsxEa1UdJSq), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
+* **Droidcon London 24** - Why is adaptive layout a nightmare? ([event page](https://london.droidcon.com/gerard-paligot/), [replay](https://www.droidcon.com/2024/11/22/why-is-adaptive-layout-a-nightmare-2/), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
+* **Android Makers by droidcon 2024** - App-Clinic
+* **Android Makers by droidcon 2024** - [Table Ronde] Mobileops, une approche indispensable du développement mobile ([event page](https://www.droidcon.com/2024/06/13/tableronde-mobileops-une-approche-indispensable-du-developpement-mobile-4/), [replay](https://www.youtube.com/watch?v=iSjkv4Rd9YQ))
 * **Android Makers by droidcon 2024** - Why is adaptive layout a nightmare? ([event page](https://www.droidcon.com/2024/06/12/why-is-adaptive-layout-a-nightmare/), [replay](https://youtu.be/tIc-H-GIkzg?si=2Q9s_5z6EyMTitd0), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
 * **Meetup GDG Rennes Android** - Why is adaptive layout a nightmare? ([event page](https://www.meetup.com/fr-FR/gdg_rennes_android/events/300006902/), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
 * **AppDevCon.NL 2024** - Why is adaptive layout a nightmare? ([event page](https://appdevcon.nl/session/why-is-adaptive-layout-a-nightmare/), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))

@@ -2,6 +2,7 @@
 
 ## 2024
 
+* [Building for multi-form factor devices in Android: The optimal architecture](https://medium.com/proandroiddev/building-for-multi-form-factor-devices-in-android-the-optimal-architecture-6311221463ab)
 * [String resources API for Compose Multiplatform](https://medium.com/proandroiddev/string-resources-api-for-compose-multiplatform-9e0bf6618506)
 
 ## 2022

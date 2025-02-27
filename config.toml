@@ -9,17 +9,17 @@ disableKinds = ["taxonomy", "term"]
   description = "Father and husband, Senior Staff Engineer @Decathlon, co-organisator LAUG and FRAUG, Kotlin Lover, Disney Fan!"
   avatar = "avatar002.jpg"
   [[params.social]]
-    icon = "github"
-    name = "GerardPaligot"
-    url = "https://github.com/GerardPaligot"
-  [[params.social]]
-    icon = "twitter"
-    name = "@GerardPaligot"
-    url = "https://twitter.com/GerardPaligot"
-  [[params.social]]
     icon = "linkedin"
     name = "gpaligot"
     url = "https://www.linkedin.com/in/gpaligot/"
+  [[params.social]]
+    icon = "brand-github"
+    name = "GerardPaligot"
+    url = "https://github.com/GerardPaligot"
+  [[params.social]]
+    icon = "brand-bluesky"
+    name = "@paligot.com"
+    url = "https://bsky.app/profile/paligot.com"
 
 [menu]
   [[menu.main]]

@@ -1,7 +1,7 @@
 baseURL = "https://gerard.paligot.com"
 languageCode = "en-us"
 title = "Gérard Paligot"
-theme = "m10c"
+theme = "hugo-theme-m10c"
 disableKinds = ["taxonomy", "term"]
 
 [params]

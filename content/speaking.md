@@ -1,5 +1,14 @@
 # Speaking
 
+## 2025
+
+* **Meetup PAUG** -  Kotlin Multiplatform: Why it is the best and worst technology? ([replay](https://youtu.be/0_WL_0f7jyU?si=IVv3-eahfTKlit-0), [slides](https://speakerdeck.com/gerardpaligot/kotlin-multiplatform-why-it-is-the-best-and-worst-technology))
+* **Mobilis in Mobile** -  Kotlin Multiplatform: Why it is the best and worst technology? ([replay](https://youtu.be/yvJ5tqxk200?si=cU8zV94RtblAtfMY), [slides](https://speakerdeck.com/gerardpaligot/kotlin-multiplatform-why-it-is-the-best-and-worst-technology))
+* **Android Makers by droidcon 2025** - App-Clinic in English
+* **Android Makers by droidcon 2025** - App-Clinic in French
+* **Android Makers by droidcon 2025** - MobileOps v2: An approach adapted to your organization ([replay](https://youtu.be/pH8OVDaFuEo?si=XjY7F8eGhYmVVQjo), [slides](https://fr.slideshare.net/slideshow/androidmakers-mobileops-v2-une-approche-adaptee-a-votre-organisation/277885886))
+* **Android Makers by droidcon 2025** - Building dynamic forms with JSONForms and Kotlin Multiplatform ([replay](https://youtu.be/vzP_3vUEJog?si=aX_W9Eql6GstE-MU), [slides](https://speakerdeck.com/gerardpaligot/building-dynamic-forms-with-jsonforms-and-kotlin-multiplatform))
+
 ## 2024
 
 * **Devfest Strasbourg** - Why is adaptive layout a nightmare? ([event page](https://devfest.gdgstrasbourg.fr/), [replay](https://youtu.be/lkKUsasgAsM?si=Z8g09jsxEa1UdJSq), [slides](https://speakerdeck.com/gerardpaligot/why-is-adaptive-layout-a-nightmare))
